@@ -1,6 +1,7 @@
 
 # Giovanna Bolsarim Ribeiro Baratto 
 ## giovanna.bolsarim@gmail.com - (19) 97403-9963
+![Foto Giovanna](imagem.png)
 > "Em algum lugar, algo incrivel está esperando para ser descoberto." - Carls Sagan
 
 ### Objetivo: Dev Front-End
